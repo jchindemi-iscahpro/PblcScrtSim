@@ -1,0 +1,4 @@
+"AadClientId": "180732f6-e2a6-4626-8bf2-d456dd71a9ec",
+  "AadSecret": "glG8Q~pY0x5NGnwVEl0nbCU2jf4jh-e0_0gNWbFk",
+  "AadTenantDomain": "abacusflex.onmicrosoft.com",
+  "AadTenantId": "fe12333e-d43e-4859-a53d-2e6aef502134",
